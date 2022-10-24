@@ -1,0 +1,1 @@
+Here you can find some handy steps to setup and run the angular projects.
